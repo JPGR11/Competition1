@@ -1,0 +1,6 @@
+#Room ID,Room Name,Capacity,Specifications
+R101,Lab 1,30,"Computers, Projector"
+R102,Lab 2,25,"Whiteboard, Projector"
+R103,Lecture 1,40,"Whiteboard, Microphone"
+R104,Seminar Room,20,"Roundtable, Projector"
+R105,Security Lab,20,"Computers, Secure Network"
